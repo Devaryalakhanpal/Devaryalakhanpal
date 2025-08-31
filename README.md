@@ -5,15 +5,12 @@
 
 ### <div align="center">I'm Devarya, a Software developer 👨‍💻 Graduate student from VIT 🚀</div>  
 <br/>
+   
+
+- 🌱 I’m currently learning n8n and Docker  
   
 
-- 🔭 I’m currently working on [Link-Saver](https://github.com/devaryalakhanpal/LinkSaver)  and [Pokedex](https://github.com/devaryalakhanpal/pokedex)
-  
-
-- 🌱 I’m currently learning Azure and Docker  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I once discovered an asteroid
   
 
 <br/>  
