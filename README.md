@@ -19,9 +19,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
      <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,mysql,mongodb,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,mysql" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,pytorch,tensorflow" />
   </a>
 </p>
 ⚡currently learning n8n and Docker!
