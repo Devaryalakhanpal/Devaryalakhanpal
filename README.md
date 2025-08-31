@@ -6,9 +6,12 @@
 
 # About Me
 <div style="line-height:1.3;">
-🐍 Python Programmer | 🧩 DSA Practitioner |
-🧠 ML & AI Explorer | 🔒 Cybersecurity Learner  </br>
-🚀 Experienced with building production-ready software at and ML solutions  </br>
+Python Programmer</br>
+DSA Practitioner</br>
+ML & AI Explorer </br>
+Cybersecurity Learner </br>
+Experienced with building production-ready software and ML solutions  </br>
+ </br> 
 🌌 Discovered the asteroid 2016 JQ20 P10vKns using advanced astronomical data analysis software
 </div>
 
