@@ -31,7 +31,7 @@
 ## Socials 
 <div align="center">
 <a href="https://github.com/devaryalakhanpal" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50 & cache_seconds=1800"/>
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/devaryalakhanpal" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="50" height="50"/>
