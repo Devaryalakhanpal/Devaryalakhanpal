@@ -30,11 +30,11 @@
 
 ## Socials 
 <div align="center">
-<a href="https://github.com/devaryalakhanpal" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50 & cache_seconds=1800"/>
-</a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/devaryalakhanpal" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="50" height="50"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/devaryalakhanpal" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50 & cache_seconds=1800"/>
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/_devarya" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="50" height="50"/>
@@ -54,7 +54,7 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=github-dark-blue&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=dark&hide_border=true" />
       <br/>
     </td>
     <td align="center">
