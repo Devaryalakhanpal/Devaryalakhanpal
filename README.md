@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=github-dark-blue&hide_border=true" />
       <br/>
