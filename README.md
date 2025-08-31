@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,azure" />
   </a>
 </p>
-⚡  I’m currently learning n8n and Docker  
+⚡currently learning n8n and Docker!
 
 <br/>  
 
@@ -45,17 +45,23 @@
 
 # Stats  
 
-### ⭐ GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=github-dark-blue&hide_border=false"/>
-</p>
-
-### 🧩 LeetCode  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/devaryalakhanpal?theme=dark&font=Source%20Code%20Pro"/>
-</p>
-
+<table>
+  <tr>
+    <th align="center">⭐ GitHub Stats</th>
+    <th align="center">🧩 LeetCode Stats</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=github-dark-blue&hide_border=true" />
+      <br/>
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/devaryalakhanpal?ext=activity" />
+    </td>
+  </tr>
+</table>  
 
 <br/>  
 
