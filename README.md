@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Devarya, a Software developer 👨‍💻 Graduate student from VIT 🚀</div>  
+### <div align="center">I'm Devarya, a Software Developer & Graduate student from VIT 🚀</div>  
 <br/>
    
 
@@ -73,10 +73,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devaryalakhanpal&&style=flat-square" align="center" />
-            <a href="https://www.buymeacoffee.com/devaryalakhanpal" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+</div>
 <br />
