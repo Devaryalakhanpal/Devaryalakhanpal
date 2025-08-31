@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Kunal, a Software developer 👨‍💻 Currently final year student at VIT 🚀</div>  
+### <div align="center">I'm Devarya, a Software developer 👨‍💻 Graduate student from VIT 🚀</div>  
 <br/>
   
 
@@ -35,16 +35,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/itguykunal" target="_blank">
+<a href="https://github.com/devaryalakhanpal" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/itguykunal" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" width="50" height="50"/>
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/itguykunal" target="_blank">
+<a href="https://linkedin.com/in/devaryalakhanpal" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="50" height="50"/>
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/itguykunal" target="_blank">
+<a href="https://instagram.com/_devarya" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="50" height="50"/>
 </a>
 
@@ -63,13 +60,13 @@
   
   <th>
     
-  ## [LeetCode Stats](https://leetcode.com/u/iTGuyKunal)
+  ## [LeetCode Stats](https://leetcode.com/u/devaryalakhanpal/)
      
   </th>
   </tr>
     <tr>
     <th> <img src="https://github-readme-stats.vercel.app/api?username=itguykunal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" /></th>
-    <th> <img src="https://leetcard.jacoblin.cool/itguykunal" /></th>
+    <th> <img src="https://leetcard.jacoblin.cool/devaryalakhanpal" /></th>
   </tr>
     
 </table>
