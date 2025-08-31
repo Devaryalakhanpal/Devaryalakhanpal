@@ -2,35 +2,33 @@
 <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="center" style="width: 100%" />
 </div>  
 
+### <div align="center">I'm Devarya, a Software Developer & Graduate in AI/ML from VIT 🚀</div>  
 
-### <div align="center">I'm Devarya, a Software Developer & Graduate student from VIT 🚀</div>  
-<br/>
-   
-
-- 🌱 I’m currently learning n8n and Docker  
-  
-
-- ⚡ Fun fact: I once discovered an asteroid
-  
+# About Me
+<div style="line-height:1.3;">
+🐍 Python Programmer | 🧩 DSA Practitioner |
+🧠 ML & AI Explorer | 🔒 Cybersecurity Learner  </br>
+🚀 Experienced with building production-ready software at and ML solutions  </br>
+🌌 Discovered the asteroid 2016 JQ20 P10vKns using advanced astronmical data analysis software
+</div>
 
 <br/>  
 
-
-## My Skill Set  
+## Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,premiere,illustrator" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
      <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,mysql,mongodb,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,mysql,mongodb,php" />
     <br/>
   <img src="https://skillicons.dev/icons?i=docker,aws,azure" />
   </a>
 </p>
+⚡  I’m currently learning n8n and Docker  
 
 <br/>  
 
-
-## Connect with me  
+## Socials 
 <div align="center">
 <a href="https://github.com/devaryalakhanpal" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="50" height="50"/>
@@ -41,37 +39,39 @@
 <a href="https://instagram.com/_devarya" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="50" height="50"/>
 </a>
-
 </div>  
-  
 
 <br/>  
-<br/>  
-<table>
-  <tr>
-    <th> 
-      
-  ## Github Stats 
-      
-  </th>
-  
-  <th>
-    
-  ## [LeetCode Stats](https://leetcode.com/u/devaryalakhanpal/)
-     
-  </th>
-  </tr>
-    <tr>
-    <th> <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" /></th>
-    <th> <img src="https://leetcard.jacoblin.cool/devaryalakhanpal" /></th>
-  </tr>
-    
-</table>
+
+# Stats  
+
+### ⭐ GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=github-dark-blue&hide_border=false"/>
+</p>
+
+### 🧩 LeetCode  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/devaryalakhanpal?theme=dark&font=Source%20Code%20Pro"/>
+</p>
+
+
 <br/>  
 
-## 🌱
+#  Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devaryalakhanpal&theme=monokai&no-frame=true&no-bg=true&margin-w=4&title=Commits,Experience,Followers,Issues,Repositories,Stars" />
+</p>
+
+<br/>  
+
+# Quote of the day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<br/>  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devaryalakhanpal&&style=flat-square" align="center" />
 </div>
-<br />
