@@ -21,10 +21,10 @@
      <br/>
   <img src="https://skillicons.dev/icons?i=cpp,python,git,mysql" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,pytorch,tensorflow" />
   </a>
 </p>
-⚡currently learning n8n and Docker!
+⚡currently learning n8n and RAG!
 
 <br/>  
 
