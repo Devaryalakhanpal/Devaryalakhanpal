@@ -7,7 +7,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [Link-Saver](https://github.com/Itguykunal/LinkSaver)  and [Pokedex](https://github.com/Itguykunal/pokedex)
+- 🔭 I’m currently working on [Link-Saver](https://github.com/devaryalakhanpal/LinkSaver)  and [Pokedex](https://github.com/devaryalakhanpal/pokedex)
   
 
 - 🌱 I’m currently learning Azure and Docker  
@@ -65,7 +65,7 @@
   </th>
   </tr>
     <tr>
-    <th> <img src="https://github-readme-stats.vercel.app/api?username=itguykunal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" /></th>
+    <th> <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" /></th>
     <th> <img src="https://leetcard.jacoblin.cool/devaryalakhanpal" /></th>
   </tr>
     
@@ -75,8 +75,8 @@
 ## 🌱
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itguykunal&&style=flat-square" align="center" />
-            <a href="https://www.buymeacoffee.com/itguykunal" target="_blank" style="display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=devaryalakhanpal&&style=flat-square" align="center" />
+            <a href="https://www.buymeacoffee.com/devaryalakhanpal" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
