@@ -57,7 +57,7 @@ Experienced with building production-ready software and ML solutions  </br>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=devaryalakhanpal&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal&theme=dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaryalakhanpal" />
       <br/>
     </td>
     <td align="center">
