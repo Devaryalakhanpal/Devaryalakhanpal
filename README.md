@@ -67,7 +67,7 @@ Experienced with building production-ready software and ML solutions  </br>
 </table>  
 
 <br/>  
-
+ 
 #  Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devaryalakhanpal&theme=monokai&no-frame=true&no-bg=true&margin-w=4&title=Commits,Experience,Followers,Issues,Repositories,Stars" />
