@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="center" style="width: 100%" />
 </div>  
-
+ 
 ### <div align="center">I'm Devarya, a Software Developer & Graduate in AI/ML from VIT 🚀</div>  
 
 # About Me
